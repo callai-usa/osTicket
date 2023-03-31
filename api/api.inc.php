@@ -5,7 +5,7 @@
     File included on every API page...handles common includes.
 
     Peter Rotich <peter@osticket.com>
-    Copyright (c)  2006-2013 osTicket
+    Copyright (c)  2006-2013 osTic ket
     http://www.osticket.com
 
     Released under the GNU General Public License WITHOUT ANY WARRANTY.
